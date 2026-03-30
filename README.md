@@ -110,11 +110,12 @@ We thank the authors of the following repositories for their open-source code:
 If you find our paper and code useful, please cite us:
 
 ```bib
-@article{zhu2024semgauss,
-  title={Semgauss-slam: Dense semantic gaussian splatting slam},
+@INPROCEEDINGS{zhu2024semgauss,
   author={Zhu, Siting and Qin, Renjie and Wang, Guangming and Liu, Jiuming and Wang, Hesheng},
-  journal={arXiv preprint arXiv:2403.07494},
-  year={2024}
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM}, 
+  year={2025},
+  pages={21174-21181}
 }
 ```
 
